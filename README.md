@@ -1,5 +1,3 @@
-# Portfolio
-
 # 🌐 Personal Portfolio Website
 
 This is my personal **Portfolio Website** created using **HTML** and **CSS**.  
@@ -28,9 +26,5 @@ It showcases my skills, projects, and information about me.
 
 ## 📂 How to View
 You can view my portfolio directly here:  
-👉 [Live Demo](https://your-username.github.io/your-repo-name/)  
+👉 [Live Demo](https://dipak-muthe-portfolio.netlify.app/)  
 
-Or clone this repository and open `index.html` in your browser:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
